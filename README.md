@@ -27,7 +27,7 @@ _Example of the Wordle game in action._
 
 2. **Start the Game**:
     ```python
-    python wordle_game.py
+    python play_wordle.py
     ```
 
 3. **Guessing**:
@@ -42,10 +42,13 @@ _Example of the Wordle game in action._
 
 Feel free to fork this project and add your own enhancements or fixes. Pull requests are welcome!
 
-## License
-
-This project is licensed under the MIT License. Check the `LICENSE` file for more details.
-
 ---
 
 Enjoy the game and keep challenging yourself!
+
+## 👩‍💻 Author
+**Sheng Yun**
+- Github: [@nickShengY<nickShengY>](https://github.com/nickShengY)
+- Email: <syun13@fordham.edu>/<s24yun@uwaterloo.ca>
+
+
