@@ -1,6 +1,6 @@
 # Wordle Game
 
-Welcome to the CLassical Wordle game! Test your vocabulary and deduction skills as you attempt to guess the secret word within a limited number of tries. Each attempt provides you with feedback, making the game more interesting.
+Welcome to the Classical Wordle game! Test your vocabulary and deduction skills as you attempt to guess the secret word within a limited number of tries. Each attempt provides you with feedback, making the game more interesting.
 
 
 _Example of the Wordle game in action._
